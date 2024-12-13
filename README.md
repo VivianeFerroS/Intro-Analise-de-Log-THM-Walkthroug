@@ -1,5 +1,5 @@
 # Intro-Analise-de-Log-THM-Walkthroug
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/VivianeFerro.png" alt="Your Image Badge" />
 TAREFA 2
 
 Noções básicas de análise de log
